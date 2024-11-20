@@ -1,4 +1,4 @@
-name: Publish PR
+name: Publish PR(UA)
 on:
   pull_request:
   workflow_dispatch:
